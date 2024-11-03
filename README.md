@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Briankosgei
+- 👋 Hi, I’m K. Brian Kipkosgei
 - 👀 I’m interested in Tech and a football enthusiast.
 - 🌱 I’m currently learning Software development and systems devops.
 - 💞️ I’m looking to collaborate on software installation and application
